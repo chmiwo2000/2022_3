@@ -1,5 +1,7 @@
 <style>
   *{
+      ul { list-style-type:none;}
+      li {display:inline-block:}
       font-family: 'Noto Sans KR', sans-serif;
       list-style: none;
       text-decoration: none;
@@ -8,6 +10,7 @@
       padding:0px;
       color:#000;
     }
+
 .intro_bg{
   background-image:url("back.jpg");
   width:100%;
@@ -51,4 +54,30 @@
   margin-left:84px;
 }
 
+ 
+.head{
+  display:flex;
+  align-items:center; 
+  text-align:center; 
+  color:#8e8e8e;
+  margin-top:30px;
+} 
+ 
+ 
+.mid{
+  display:flex;
+  align-items:center; 
+  text-align:center; 
+  color:#8e8e8e;
+  margin-top:60px; 
+}
+
+ 
+ .end{
+  display:flex;
+  align-items:center; 
+  text-align:center; 
+  color:#8e8e8e;
+  margin-top:90px; 
+} 
 </style>
