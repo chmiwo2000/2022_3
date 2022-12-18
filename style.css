@@ -22,8 +22,21 @@
   height:86px;
 }
 
+.searchArea{
+  width:300px;
+  height:40px;
+  background:green;
+  border-radius:5px;
+  margin-top:24px;
+} 
+
+
 .nav{
   display:flex;
+  justify=content:flex-end;
+  line-height:86px;
+  width:calc(1280px - 300px);
+  background:blue;
 }
 
 .nav > li{
