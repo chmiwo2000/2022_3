@@ -35,7 +35,9 @@
   border:none;
   width:250px;
   height:40px;
-  background:rgba(0,0,0,)
+  background:rgba(0,0,0,0.0);
+  color:#fff;
+  padding-left:10px;
 
 .nav{
   display:flex;
