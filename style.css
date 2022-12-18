@@ -14,5 +14,15 @@
   height:718px;
 }
 
+.header{
+ display:flex;
+ width:1280px;
+ margin:auto;  
+ height:86px;
+}
+
+.nav{
+ display:flex;
+}
 
 </style>
